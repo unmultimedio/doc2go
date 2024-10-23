@@ -16,8 +16,8 @@ import (
 	"github.com/andybalholm/cascadia"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"go.abhg.dev/doc2go/internal/godoc"
-	"go.abhg.dev/doc2go/internal/highlight"
+	"github.com/unmultimedio/doc2go/internal/godoc"
+	"github.com/unmultimedio/doc2go/internal/highlight"
 	"golang.org/x/net/html"
 )
 

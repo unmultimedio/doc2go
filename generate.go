@@ -12,15 +12,15 @@ import (
 	"sync"
 
 	"braces.dev/errtrace"
-	"go.abhg.dev/doc2go/internal/errdefer"
-	"go.abhg.dev/doc2go/internal/godoc"
-	"go.abhg.dev/doc2go/internal/gosrc"
-	"go.abhg.dev/doc2go/internal/html"
-	"go.abhg.dev/doc2go/internal/pagefind"
-	"go.abhg.dev/doc2go/internal/pathtree"
-	"go.abhg.dev/doc2go/internal/pathx"
-	"go.abhg.dev/doc2go/internal/relative"
-	"go.abhg.dev/doc2go/internal/sliceutil"
+	"github.com/unmultimedio/doc2go/internal/errdefer"
+	"github.com/unmultimedio/doc2go/internal/godoc"
+	"github.com/unmultimedio/doc2go/internal/gosrc"
+	"github.com/unmultimedio/doc2go/internal/html"
+	"github.com/unmultimedio/doc2go/internal/pagefind"
+	"github.com/unmultimedio/doc2go/internal/pathtree"
+	"github.com/unmultimedio/doc2go/internal/pathx"
+	"github.com/unmultimedio/doc2go/internal/relative"
+	"github.com/unmultimedio/doc2go/internal/sliceutil"
 )
 
 // Parser loads a package reference from disk

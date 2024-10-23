@@ -12,7 +12,7 @@ import (
 	chroma "github.com/alecthomas/chroma/v2"
 	"github.com/alecthomas/chroma/v2/styles"
 	ff "github.com/peterbourgon/ff/v3"
-	"go.abhg.dev/doc2go/internal/flagvalue"
+	"github.com/unmultimedio/doc2go/internal/flagvalue"
 )
 
 var (

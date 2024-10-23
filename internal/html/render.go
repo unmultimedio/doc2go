@@ -16,9 +16,9 @@ import (
 	ttemplate "text/template"
 
 	"braces.dev/errtrace"
-	"go.abhg.dev/doc2go/internal/godoc"
-	"go.abhg.dev/doc2go/internal/highlight"
-	"go.abhg.dev/doc2go/internal/relative"
+	"github.com/unmultimedio/doc2go/internal/godoc"
+	"github.com/unmultimedio/doc2go/internal/highlight"
+	"github.com/unmultimedio/doc2go/internal/relative"
 )
 
 // StaticDir is the name of the directory in the output

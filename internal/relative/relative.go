@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"go.abhg.dev/doc2go/internal/sliceutil"
+	"github.com/unmultimedio/doc2go/internal/sliceutil"
 )
 
 const (

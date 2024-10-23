@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"go/doc/comment"
 
-	"go.abhg.dev/doc2go/internal/gosrc"
-	"go.abhg.dev/doc2go/internal/highlight"
+	"github.com/unmultimedio/doc2go/internal/gosrc"
+	"github.com/unmultimedio/doc2go/internal/highlight"
 )
 
 // CodeBuilder builds highlight.Code blocks,

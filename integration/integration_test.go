@@ -17,9 +17,9 @@ import (
 	"github.com/andybalholm/cascadia"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
+	"github.com/unmultimedio/doc2go/internal/iotest"
+	"github.com/unmultimedio/doc2go/internal/pathx"
 	"go.abhg.dev/container/ring"
-	"go.abhg.dev/doc2go/internal/iotest"
-	"go.abhg.dev/doc2go/internal/pathx"
 	"golang.org/x/net/html"
 )
 

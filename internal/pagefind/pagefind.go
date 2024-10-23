@@ -10,7 +10,7 @@ import (
 	"os/exec"
 
 	"braces.dev/errtrace"
-	"go.abhg.dev/doc2go/internal/linebuf"
+	"github.com/unmultimedio/doc2go/internal/linebuf"
 )
 
 // CLI is a handle to the pagefind CLI,

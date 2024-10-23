@@ -5,7 +5,7 @@ import (
 	"io"
 	"testing"
 
-	"go.abhg.dev/doc2go/internal/linebuf"
+	"github.com/unmultimedio/doc2go/internal/linebuf"
 )
 
 // Writer builds and returns an io.Writer that

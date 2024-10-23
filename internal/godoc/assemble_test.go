@@ -16,8 +16,8 @@ import (
 	"github.com/alecthomas/chroma/v2"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"go.abhg.dev/doc2go/internal/gosrc"
-	"go.abhg.dev/doc2go/internal/highlight"
+	"github.com/unmultimedio/doc2go/internal/gosrc"
+	"github.com/unmultimedio/doc2go/internal/highlight"
 )
 
 func TestAssembler(t *testing.T) {

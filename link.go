@@ -6,8 +6,8 @@ import (
 	"strings"
 	"text/template"
 
-	"go.abhg.dev/doc2go/internal/pathtree"
-	"go.abhg.dev/doc2go/internal/relative"
+	"github.com/unmultimedio/doc2go/internal/pathtree"
+	"github.com/unmultimedio/doc2go/internal/relative"
 )
 
 type docLinker struct {

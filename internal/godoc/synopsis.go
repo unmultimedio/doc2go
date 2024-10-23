@@ -18,7 +18,7 @@ import (
 	"go/token"
 	"strings"
 
-	"go.abhg.dev/doc2go/internal/must"
+	"github.com/unmultimedio/doc2go/internal/must"
 )
 
 const (

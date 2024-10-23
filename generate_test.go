@@ -11,11 +11,11 @@ import (
 	"braces.dev/errtrace"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"go.abhg.dev/doc2go/internal/godoc"
-	"go.abhg.dev/doc2go/internal/gosrc"
-	"go.abhg.dev/doc2go/internal/html"
-	"go.abhg.dev/doc2go/internal/iotest"
-	"go.abhg.dev/doc2go/internal/pagefind"
+	"github.com/unmultimedio/doc2go/internal/godoc"
+	"github.com/unmultimedio/doc2go/internal/gosrc"
+	"github.com/unmultimedio/doc2go/internal/html"
+	"github.com/unmultimedio/doc2go/internal/iotest"
+	"github.com/unmultimedio/doc2go/internal/pagefind"
 )
 
 func TestGenerator_hierarchy(t *testing.T) {

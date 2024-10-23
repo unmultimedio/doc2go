@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"go.abhg.dev/doc2go/internal/ptr"
+	"github.com/unmultimedio/doc2go/internal/ptr"
 )
 
 func TestEmpty(t *testing.T) {

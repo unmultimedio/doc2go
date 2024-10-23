@@ -20,9 +20,9 @@ import (
 	"slices"
 
 	"braces.dev/errtrace"
-	"go.abhg.dev/doc2go/internal/gosrc"
-	"go.abhg.dev/doc2go/internal/highlight"
-	"go.abhg.dev/doc2go/internal/sliceutil"
+	"github.com/unmultimedio/doc2go/internal/gosrc"
+	"github.com/unmultimedio/doc2go/internal/highlight"
+	"github.com/unmultimedio/doc2go/internal/sliceutil"
 	"golang.org/x/text/cases"
 	"golang.org/x/text/language"
 )

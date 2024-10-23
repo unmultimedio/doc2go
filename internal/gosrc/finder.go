@@ -10,7 +10,7 @@ import (
 	"strings"
 
 	"braces.dev/errtrace"
-	"go.abhg.dev/doc2go/internal/sliceutil"
+	"github.com/unmultimedio/doc2go/internal/sliceutil"
 	"golang.org/x/tools/go/packages"
 )
 

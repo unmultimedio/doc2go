@@ -8,7 +8,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"go.abhg.dev/doc2go/internal/iotest"
+	"github.com/unmultimedio/doc2go/internal/iotest"
 	"golang.org/x/tools/go/packages/packagestest"
 )
 

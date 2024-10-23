@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"braces.dev/errtrace"
-	"go.abhg.dev/doc2go/internal/errdefer"
+	"github.com/unmultimedio/doc2go/internal/errdefer"
 )
 
 func readFile(name string) (_ []byte, err error) {

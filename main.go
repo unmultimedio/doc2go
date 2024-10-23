@@ -16,12 +16,12 @@ import (
 
 	"braces.dev/errtrace"
 	"github.com/alecthomas/chroma/v2/styles"
-	"go.abhg.dev/doc2go/internal/godoc"
-	"go.abhg.dev/doc2go/internal/gosrc"
-	"go.abhg.dev/doc2go/internal/highlight"
-	"go.abhg.dev/doc2go/internal/html"
-	"go.abhg.dev/doc2go/internal/pagefind"
-	"go.abhg.dev/doc2go/internal/pathx"
+	"github.com/unmultimedio/doc2go/internal/godoc"
+	"github.com/unmultimedio/doc2go/internal/gosrc"
+	"github.com/unmultimedio/doc2go/internal/highlight"
+	"github.com/unmultimedio/doc2go/internal/html"
+	"github.com/unmultimedio/doc2go/internal/pagefind"
+	"github.com/unmultimedio/doc2go/internal/pathx"
 	"golang.org/x/tools/go/packages"
 )
 
