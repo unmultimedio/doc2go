@@ -60,7 +60,7 @@ type Finder struct {
 	DebugLog *log.Logger
 }
 
-const _finderLoadMode = packages.NeedName | packages.NeedFiles | packages.NeedImports
+const _finderLoadMode = packages.NeedName | packages.NeedFiles
 
 // FindPackages searches for packages matching the given import path patterns,
 // and returns references to them.
