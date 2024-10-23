@@ -1,4 +1,4 @@
-module go.abhg.dev/doc2go
+module github.com/unmultimedio/doc2go
 
 go 1.22.0
 
